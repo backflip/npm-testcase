@@ -1,0 +1,17 @@
+{
+  "name": "npm-testcase",
+  "version": "0.0.1",
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/react": "^6.4.19",
+    "eslint-config-next": "12.1.0"
+  }
+}
